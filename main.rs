@@ -115,7 +115,3 @@
 //        return (self.val1, self.val2.clone());
 //    }
 //}
-
-//hello ta chia hao
-
-
